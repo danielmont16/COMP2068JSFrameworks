@@ -1,1 +1,1 @@
-This is a repository created to save JavaScrit frameworks labs.
+This is a repository created to save JavaScript frameworks labs.
